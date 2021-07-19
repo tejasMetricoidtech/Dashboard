@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "322e0f3c-4b8c-435c-96fd-6e306eb07cf6",
+      "name": "tejas",
+      "email": "tejas@12.com"
+    },
+    {
+      "id": "f9f79ff4-1cbe-4b48-9fa7-dd4db8a58656",
+      "name": "anurag",
+      "email": "anurag@gmail.com"
+    },
+    {
+      "id": "05e04a70-fbeb-40d9-b8d3-0157cde35d5b",
+      "name": "amarjit",
+      "email": "amarjit@gmial.com"
+    },
+    {
+      "id": "89f8c054-dd57-43ba-a2fe-515a48b4c8f0",
+      "name": "tejas",
+      "email": "tejas@12.com"
+    }
+  ]
+}
